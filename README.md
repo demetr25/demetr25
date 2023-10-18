@@ -14,7 +14,7 @@ One more time, hello. I am 18 year old student from Ukraine, who is trying his b
 
 <b>Continuous Learning:</b> I'm committed to staying updated with the latest technologies. I believe in the importance of continuous learning to keep up with the ever-evolving tech landscape.
 
-<b>Communication:</b> Effective communication is key in any development team. I prioritize clear and open communication to ensure successful collaboration.
+<b>Communication:</b> Effective communication is key in any development team. I prioritize clear and open communication to ensure successful collaboration. Also I'm generally talkative person and I hope it will be easy for me and other people to get along with each other.
 
 ---
 
@@ -26,7 +26,8 @@ One more time, hello. I am 18 year old student from Ukraine, who is trying his b
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -39,7 +40,7 @@ One more time, hello. I am 18 year old student from Ukraine, who is trying his b
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
 </div>
 
 ---
