@@ -39,6 +39,7 @@ One more time, hello. I am 18 year old student from Ukraine, who is trying his b
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 </div>
 
 ---
