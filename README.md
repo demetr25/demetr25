@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hello, I'm  Dmytro</h1>
-    <h3>Cyber Security Engineering student in Tallinn University of Technology</h3>
+    <h3>Cyber Security Engineering student at Tallinn University of Technology</h3>
 </div>
 
 <div id="socials" align="center">
@@ -10,7 +10,7 @@
 </div>
 
 ### About Me
-One more time, hello. I am 18 year old student from Ukraine, who is trying his best to become a good specialist. Currently, I am having a good time at Tallinn University of Technologies and study a bunch of new interesting things. If you want to see my progress I sometimes update my LinkedIn profile with the skills I aquire. I have already had several big projects and do have some significant knowledge in sphere I'm studying at the moment.
+One more time, hello. I am 18 year old student from Ukraine, who is trying his best to become a good specialist. Currently, I am having a good time at Tallinn University of Technologies and studying a number of new interesting things. If you want to see my progress I sometimes update my LinkedIn profile with the skills I aquire. I have already had several big projects and do have some significant knowledge in the sphere I'm studying.
 
 <b>Continuous Learning:</b> I'm committed to staying updated with the latest technologies. I believe in the importance of continuous learning to keep up with the ever-evolving tech landscape.
 
