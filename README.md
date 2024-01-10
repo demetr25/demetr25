@@ -10,7 +10,7 @@
 </div>
 
 ### About Me
-One more time, hello. I am 18 year old student from Ukraine, who is trying his best to become a good specialist. Currently, I am having a good time at Tallinn University of Technologies and studying a number of new interesting things. If you want to see my progress I sometimes update my LinkedIn profile with the skills I aquire. I have already had several big projects and do have some significant knowledge in the sphere I'm studying.
+One more time, hello. I am 18 year old student from Ukraine, who is trying his best to become a good specialist. Currently, I am having a good time at Tallinn University of Technology and studying a number of new interesting things. If you want to see my progress I sometimes update my LinkedIn profile with the skills I aquire. I have already had several big projects and do have some significant knowledge in the sphere I'm studying.
 
 <b>Continuous Learning:</b> I'm committed to staying updated with the latest technologies. I believe in the importance of continuous learning to keep up with the ever-evolving tech landscape.
 
