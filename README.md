@@ -51,7 +51,8 @@ One more time, hello. I am 18 year old student from Ukraine, who is trying his b
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demetr25&theme=transparent" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=demetr25&theme=transparent" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=demetr25&theme=transparent" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=demetr25&theme=transparent" alt=""/>
+    <script src="https://tryhackme.com/badge/2985754"></script>
 </div>
 
 
